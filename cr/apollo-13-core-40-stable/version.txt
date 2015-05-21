@@ -1,0 +1,20 @@
+Apollo version modified A2002 by Rebecca
+
+Added code to read vertical feedback value.
+
+
+
+-----------------
+Summaries by Walter:
+
+- Fixed the auto-raise hazard.
+- Motor running
+- Belt running
+- Wheel running
+
+Issues:
+- Steering buggy.
+
+Note:
+
+Required start_up.sh
